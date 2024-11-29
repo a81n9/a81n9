@@ -15,7 +15,7 @@
 </p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy 资料奖杯 -->
-<p align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
@@ -25,7 +25,7 @@
       srcset="https://github-profile-trophy.vercel.app/?username=a81n9&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
     <img alt="a81n9" src="https://github-profile-trophy.vercel.app/?username=a81n9&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
   </picture>
-</p>
+</div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
 <p align="center">
