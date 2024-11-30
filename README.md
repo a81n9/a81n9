@@ -1,8 +1,10 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg 打字特效 -->
 <p align="center">
-  <img
-    alt="a81n9"
-    src="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing-dark.svg" />
+    <img alt="a81n9" src="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing.svg" />
+  </picture>
 </p>
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
