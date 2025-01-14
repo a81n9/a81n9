@@ -10,9 +10,9 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=a81n9" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=a81n9&theme=ads-juicy-fresh" />
-    <img alt="a81n9" src="https://streak-stats.demolab.com/?user=a81n9" />
+    <source media="(prefers-color-scheme: light)" srcset="//github-readme-streak-stats-eight.vercel.app/?user=a81n9" />
+    <source media="(prefers-color-scheme: dark)" srcset="//github-readme-streak-stats-eight.vercel.app/?user=a81n9&theme=ads-juicy-fresh" />
+    <img alt="a81n9" src="//github-readme-streak-stats-eight.vercel.app/?user=a81n9" />
   </picture>
 </p>
 
