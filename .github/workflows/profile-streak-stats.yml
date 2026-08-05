@@ -1,4 +1,4 @@
-name: Profile Snake Contrib
+name: Profile Streak Stats
 
 on:
   schedule:
@@ -6,10 +6,6 @@ on:
     - cron: '0 0 * * *'
   # 允许随时手动执行
   workflow_dispatch:
-  # 每次指定分支推送自动执行
-  # push:
-  #   branches:
-  #     - main
 
 jobs:
   generate:
@@ -22,20 +18,26 @@ jobs:
       - name: checkout repository
         uses: actions/checkout@v4
 
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate github-readme-streak-stats.svg
+        uses: DenverCoder1/github-readme-streak-stats@a028da8aed0700a4d4cbe90f3482c2a2ee6188df
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            profile-snake-contrib/github-contribution-grid-snake.svg
-            profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
+          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          path: profile-streak-stats/github-readme-streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate github-readme-streak-stats-dark.svg
+        uses: DenverCoder1/github-readme-streak-stats@a028da8aed0700a4d4cbe90f3482c2a2ee6188df
+        with:
+          options: user=${{ github.repository_owner }}&theme=ads-juicy-fresh&disable_animations=true
+          path: profile-streak-stats/github-readme-streak-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: update cache version
         shell: bash
         run: |
           cache_version="${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           sed -i -E \
-            "s|(profile-snake-contrib/github-contribution-grid-snake(-dark)?\.svg)(\?v=[0-9-]+)?|\1?v=${cache_version}|g" \
+            "s|(profile-streak-stats/github-readme-streak-stats(-dark)?\.svg)(\?v=[0-9-]+)?|\1?v=${cache_version}|g" \
             README.md
 
       - name: push generated resources to the main branch
@@ -43,13 +45,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md profile-snake-contrib
+          git add README.md profile-streak-stats
 
           if git diff --cached --quiet; then
             exit 0
           fi
 
-          git commit -m "chore: update profile snake"
+          git commit -m "chore: update profile streak stats"
 
           for attempt in 1 2 3; do
             git pull --rebase origin main

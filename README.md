@@ -1,18 +1,18 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg 打字特效 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing-dark.svg" />
-    <img alt="a81n9" src="https://cdn.jsdelivr.net/gh/a81n9/a81n9/assets/typing.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/assets/typing.svg?v=1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/assets/typing-dark.svg?v=1" />
+    <img alt="a81n9" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/assets/typing.svg?v=1" />
   </picture>
 </p>
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=a81n9" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=a81n9&theme=ads-juicy-fresh" />
-    <img alt="a81n9" src="https://github-readme-streak-stats-eight.vercel.app/?user=a81n9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats-dark.svg?v=1" />
+    <img alt="a81n9 GitHub streak stats" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=1" />
   </picture>
 </p>
 
@@ -21,11 +21,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=a81n9&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=1" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=a81n9&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
-    <img alt="a81n9" src="https://github-profile-trophy.vercel.app/?username=a81n9&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy-dark.svg?v=1" />
+    <img alt="a81n9 GitHub profile trophies" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=1" />
   </picture>
 </div>
 
@@ -34,10 +34,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=1" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/a81n9/a81n9/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <img alt="a81n9" src="https://cdn.jsdelivr.net/gh/a81n9/a81n9/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=1" />
+    <img alt="a81n9 contribution snake" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-snake-contrib/github-contribution-grid-snake.svg?v=1" />
   </picture>
 </p>
