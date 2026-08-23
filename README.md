@@ -21,11 +21,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=32543039063-1" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=32610314219-1" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy-dark.svg?v=32543039063-1" />
-    <img alt="a81n9 GitHub profile trophies" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=32543039063-1" />
+      srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy-dark.svg?v=32610314219-1" />
+    <img alt="a81n9 GitHub profile trophies" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-trophy/github-profile-trophy.svg?v=32610314219-1" />
   </picture>
 </div>
 
