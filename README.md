@@ -10,9 +10,9 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=33155558300-1" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats-dark.svg?v=33155558300-1" />
-    <img alt="a81n9 GitHub streak stats" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=33155558300-1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=33235515800-1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats-dark.svg?v=33235515800-1" />
+    <img alt="a81n9 GitHub streak stats" src="https://ghfast.top/https://raw.githubusercontent.com/a81n9/a81n9/main/profile-streak-stats/github-readme-streak-stats.svg?v=33235515800-1" />
   </picture>
 </p>
 
