@@ -2,8 +2,8 @@ name: Profile Streak Stats
 
 on:
   schedule:
-    # 00:00 UTC == 8:00 BJS
-    - cron: '0 0 * * *'
+    # 16:00 UTC == 00:00 BJS (next day)
+    - cron: '0 16 * * *'
   # 允许随时手动执行
   workflow_dispatch:
 
